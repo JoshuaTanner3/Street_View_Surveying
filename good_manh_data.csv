@@ -1,0 +1,25 @@
+,RegionID,RegionName,RegionType,StateName,State,City,Metro,CountyName,Price,lat,long
+0,270958.0,Upper West Side,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,1245560,40.787,73.975
+1,270957.0,Upper East Side,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,1132714,40.769,73.966
+2,270875.0,Lower East Side,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,884648,40.71722,73.98972
+3,270829.0,East Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,861323,40.728,73.986
+4,273860.0,Gramercy,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,736176,40.738,73.986
+5,276254.0,Chelsea,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,848301,40.746,74.001
+6,195133.0,Greenwich Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,1057241,40.734,74.002
+7,270835.0,Financial District,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,850292,40.708,74.011
+8,403206.0,Flatiron District,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,1236164,40.74111,73.98972
+9,270964.0,West Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,1040944,40.7347,74.0048
+10,270946.0,Sutton Place,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,924425,40.757,73.962
+11,270951.0,Tribeca,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,2794940,40.718,74.008
+12,270953.0,Turtle Bay,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,781387,40.756,73.97
+13,270885.0,Midtown,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,1172119,40.73833,73.98389
+14,272869.0,Battery Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,1039198,40.70361,74.01611
+15,270810.0,Carnegie Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,3843515,40.7845,73.9551
+16,270928.0,SoHo,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,2303021,40.723,74.0
+17,270873.0,Little Italy,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,1317604,40.719,73.997
+18,274627.0,Murray Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,712532,40.748,73.978
+19,270895.0,NoHo,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,2483467,40.7287,73.9926
+20,270842.0,Garment District,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,674961,40.7547,73.9916
+21,273205.0,Central Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,1673457,40.78222,73.96528
+22,,Hell's Kitchen,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,998000,40.764,73.992
+23,,Theatre District,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,"1,725,000",40.759,73.985

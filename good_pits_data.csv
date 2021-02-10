@@ -1,0 +1,31 @@
+,RegionID,RegionName,RegionType,StateName,State,City,Metro,CountyName,Price,lat,long
+26,54374.0,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,414994,40.45,79.935
+28,271219.0,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,657279,40.4456,79.9277
+30,274732.0,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,279266,40.4484,79.9527
+31,208472.0,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,244765,40.461,79.948
+32,214069.0,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,194818,40.43199,79.95984
+33,213615.0,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,164285,40.4271,80.0112
+36,211218.0,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,206328,40.422,79.942
+39,271217.0,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,251051,40.4284,79.9736
+43,271218.0,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,149093,40.42,79.97
+47,343629.0,Marshall - Shadeland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,87209,40.469,80.032
+49,212283.0,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,46631,40.415,79.993
+57,271161.0,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,294174,40.4418,80.0004
+59,271162.0,Central Northside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,239165,40.456,80.01
+61,210000.0,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,193287,40.436,80.02
+62,343628.0,Spring Hill - City View,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,134637,40.467,79.994
+64,271224.0,Terrace Village,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,167027,40.4431,79.971
+65,210276.0,Elliott,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,82876,40.446,80.038
+66,273391.0,Crawford Roberts,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,197311,40.4415,79.9822
+69,271179.0,Friendship,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,364048,40.462,79.934
+71,271169.0,East Allegheny,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,216541,40.456,80.0
+72,271226.0,Upper Hill,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,155396,40.4535,79.9612
+73,271231.0,West Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,177145,40.4394,79.9647
+74,271209.0,Polish Hill,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,190107,40.457,79.965
+79,343626.0,Fine View,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,153849,40.464,80.003
+86,216117.0,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,445243,40.45,79.985
+92,271184.0,Herrs Island,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,663689,40.4667,79.975
+93,275170.0,Ridgemont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,150671,40.426,80.034
+94,272749.0,Allegheny West,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,390006,40.45208,80.01578
+95,271199.0,North Shore,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,192259,40.447,80.009
+97,271165.0,Chateau,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,218816,40.4493,80.0283
